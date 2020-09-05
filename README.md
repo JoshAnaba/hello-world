@@ -1,4 +1,4 @@
 # hello-world
-Little Projects
-This is supposed to be a place for my little projects, here we go.
-No changes made to my codes yet
+Little Projects.
+I like Javascript and love styling(CSS), I've used Vue.js and Bootstrap too.
+No changes made to my codes yet.
